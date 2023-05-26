@@ -22,18 +22,15 @@ My portfolio website showcases my skills, experience, and projects as a data sci
 
 ## Deployment
 
-The website is deployed using a web server and can be accessed at [your-website-url](your-website-url).
+The website is deployed using a web server and can be accessed at [Portfolio](https://sairakeshreddy.netlify.app/).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-rakesh-reddy-525954173/)
-- Medium: [Your Medium Profile](https://medium.com/@rakeshreddyd56)
-- GitHub: [Your GitHub Profile](https://github.com/rakeshreddyd56)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sai-rakesh-reddy-525954173/)
+- Medium: [Medium Profile](https://medium.com/@rakeshreddyd56)
+- GitHub: [GitHub Profile](https://github.com/rakeshreddyd56)
 
 I look forward to connecting with you!
