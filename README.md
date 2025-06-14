@@ -5,7 +5,7 @@ Welcome to my portfolio website! This repository contains the source code and as
 
 ## Introduction
 
-My portfolio website showcases my skills, experience, and projects as a data scientist and software engineer. It serves as a hub for sharing information about my background, qualifications, and accomplishments. Through this website, I aim to demonstrate my expertise in leveraging data to develop solutions and drive business growth.
+My portfolio website showcases my skills, experience, and projects as a Full-Stack Software & Data Engineer and software engineer. It serves as a hub for sharing information about my background, qualifications, and accomplishments. Through this website, I aim to demonstrate my expertise in leveraging data to develop solutions and drive business growth.
 
 ## Features
 
@@ -29,8 +29,7 @@ The website is deployed using a web server and can be accessed at [Portfolio](ht
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sai-rakesh-reddy-525954173/)
-- Medium: [Medium Profile](https://medium.com/@rakeshreddyd56)
-- GitHub: [GitHub Profile](https://github.com/rakeshreddyd56)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ankushkappe/)
+- GitHub: [GitHub Profile](https://github.com/ankushkappe)
 
 I look forward to connecting with you!
