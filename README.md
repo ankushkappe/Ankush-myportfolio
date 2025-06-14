@@ -22,7 +22,7 @@ My portfolio website showcases my skills, experience, and projects as a Full-Sta
 
 ## Deployment
 
-The website is deployed using a web server and can be accessed at [Portfolio](https://sairakeshreddy.netlify.app/).
+The website is deployed using a web server and can be accessed at [Portfolio]().
 
 
 ## Contact
